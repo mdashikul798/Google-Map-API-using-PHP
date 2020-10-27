@@ -36,9 +36,6 @@
 		<div id="map"></div>
 	</div>
 </body>
-<!-- <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key={your api key}&callback=loadMap">
-</script> -->
 <script
       src="https://maps.googleapis.com/maps/api/js?key=API-KEY-would-be-here&callback=loadMap&libraries=&v=weekly"
       defer
