@@ -40,7 +40,7 @@
     src="https://maps.googleapis.com/maps/api/js?key={your api key}&callback=loadMap">
 </script> -->
 <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAwfBa15rPOLA3g4DtM8J7AhMaUi5qHFO0&callback=loadMap&libraries=&v=weekly"
+      src="https://maps.googleapis.com/maps/api/js?key=API-KEY-would-be-here&callback=loadMap&libraries=&v=weekly"
       defer
     ></script>
 </html>
